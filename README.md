@@ -3,7 +3,7 @@
 **AI Automation & AI Agents** | BSCS 2026, Women University Multan
 
 I build AI automation workflows and I am learning to build AI agents.
-I am looking for entry-level AI/ML, Backend or Python roles (remote preferred).
+I am looking for entry-level AI/ML, Backend or Python roles.
 
 ## 🚀 What I'm Working On
 - Building automation workflows and RAG chatbots with n8n
